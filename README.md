@@ -1,4 +1,4 @@
-git clone https://github.com/I-mrbd/neovim-config.git
+"git clone https://github.com/I-mrbd/neovim-config.git"
 
 requirements:
   - ripgrep for telescope fuzzyfinding
