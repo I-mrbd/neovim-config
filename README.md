@@ -1,7 +1,7 @@
 git clone https://github.com/I-mrbd/neovim-config.git
 
 requirements:
-  - grep or ripgrep
+  - ripgrep for telescope fuzzyfinding
   - lua interpreter and luarocks package manager
   - language-specific compilers/interpreters
 
